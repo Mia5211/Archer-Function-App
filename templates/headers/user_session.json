@@ -1,0 +1,4 @@
+{
+    "Content-Type": "text/xml; charset=utf-8",
+    "SOAPAction": "http://archer-tech.com/webservices/CreateUserSessionFromInstance"
+}

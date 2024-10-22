@@ -1,0 +1,7 @@
+{
+    "Content-Type": "text/xml",
+    "SOAPAction": "http://archer-tech.com/webservices/SearchRecordsByReport",
+    "Accept": "application/xml, text/xml, */*; q=0.01",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-US,en;q=0.9"
+}

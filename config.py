@@ -1,0 +1,11 @@
+import os
+
+# Configuration values
+VAULT_URL = os.environ["VAULT_URL"]
+#ARCHER_UAT_URL = os.environ["ARCHER_UAT_URL"]
+ARCHER_PROD_URL = os.environ["ARCHER_PROD_URL"]
+INCIDENT_REPORT_TOKEN = os.environ["INCIDENT_REPORT_TOKEN"]
+AZURE_STORAGE_ACCOUNT_URL = os.environ["AZURE_STORAGE_ACCOUNT_URL"]
+CONTAINER_NAME = os.environ["CONTAINER_NAME"]
+DIRECTORY = os.environ["DIRECTORY"]
+
